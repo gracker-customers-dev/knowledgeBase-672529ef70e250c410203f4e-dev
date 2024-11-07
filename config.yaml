@@ -1,0 +1,57 @@
+projectName: 'IAM and Data Privacy: Ensuring Compliance in a Global Environment'
+jsonFilePath: ./input.json
+baseUrl: https://nhimg.org
+portalHeading: Non-Human Identity Management Group
+portalDescription: >-
+  A community portal providing Knowledge Centre & Guidance to help clients
+  manage Non-Human/Machine/Workload Identity Risks.
+portalTitle: Non-Human Identity Management Group - community portal
+searchPlaceholder: Search for articles, blogs, and resources...
+useAlphabetsCategory: true
+homeLink: https://nhimg.org
+logoLink: /
+ctaText: Get Started
+aboutLink: https://nhimg.org/about
+productsLink: https://nhimg.org/products
+logoImgUrl: >-
+  https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=700,h=483,fit=crop/dOqbJe6jweHoPWVn/nhimg-logo-new-AE0p6ezbv1FPjlX8.png
+ctaLink: https://nhimg.org/general-equiry
+copyrightText: © 2024 Non-Human Identity Management Group
+faviconUrl: >-
+  https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=48,h=48,fit=crop,f=png/dOqbJe6jweHoPWVn/nhim-logo-dWxlX62EnBF111ZN.jpg
+googleTagManagerId: GTM-MB8NQN6
+pagesTitle:
+  prefix: ''
+  suffix: ''
+categoryPagesTitle:
+  prefix: ''
+  suffix: ''
+templateRoot:
+  - ./templates
+  - ./templates
+homeTemplatePath: ./templates/homePageTemplate.ejs
+categoryTemplatePath: ./templates/categoryTemplate.ejs
+pageTemplatePath: ./templates/pagesTemplate.ejs
+outputDir: ./output
+socialLinks:
+  - platform: LinkedIn
+    url: https://www.linkedin.com/groups/13038250/
+  - platform: YouTube
+    url: https://www.youtube.com/@NonHumanIdentityManagement
+theme:
+  primaryColor: '#2f1c6a'
+  secondaryColor: '#8c85ff'
+  backgroundColor: '#ffffff'
+  textColor: '#000000'
+  accentColor: '#673de6'
+fonts:
+  - family: Inter
+    weights:
+      - 400
+      - 500
+      - 600
+  - family: Montserrat
+    weights:
+      - 400
+      - 600
+      - 700
